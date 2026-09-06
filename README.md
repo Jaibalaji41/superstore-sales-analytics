@@ -1,6 +1,3 @@
-Of course 😊 Copy-paste this **entire content into your GitHub `README.md` file** — **not Colab**.
-
-````markdown
 # Superstore Sales Analytics & Forecasting
 
 ## 📊 Project Overview

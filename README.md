@@ -155,19 +155,4 @@ The `.twbx` file contains the Tableau dashboard and packaged data sources.
 
 ---
 
-## 👩‍💻 Author
 
-**Jeni**
-
-This project was created as a data analytics and machine learning portfolio project.
-
-```
-
-### ✅ After pasting
-
-On GitHub:
-
-**README.md → ✏️ Edit → Delete old content → Paste this → Commit changes**
-
-Don't worry about the `screenshots/dashboard.png` part yet. **We'll upload the dashboard image later**, and then it will automatically appear in the README. 👍
-```
